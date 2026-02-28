@@ -35,4 +35,4 @@ I am building this portfolio to document my growth as a Software Engineer. My go
 ---
 
 **Contact Me:**
-- **LinkedIn:** [Abdulqayumov Abdukarim](https://www.linkedin.com/in/abdulqayumov-abdukarim)
+- **LinkedIn:** [Abdulqayumov Abdukarim](www.linkedin.com/in/абдулкарим-абдулкаюмов-7775763a7)
