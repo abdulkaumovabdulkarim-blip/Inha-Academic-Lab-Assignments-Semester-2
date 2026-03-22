@@ -25,9 +25,8 @@ Currently, this archive focuses on **Semester 2** and beyond. It contains my lab
 
 ## 🛠 Tech Stack & Tools
 - **Language:** C++
-- **Environment:** Visual Studio / VS Code
+- **Environment:** Visual Studio 2022
 - **Operating System:** Windows
-- **Version Control:** Git / GitHub
 
 ## 🎯 Goal
 I am building this portfolio to document my growth as a Software Engineer. My goal is to apply my technical foundation and problem-solving skills to professional projects and secure a software engineering role where I can contribute to building scalable solutions.
