@@ -1,9 +1,6 @@
 // Abdulqayumiv Abdukarim. ID: U2510080.
 // Source.cpp
 #include "Header.h"
-#include <iostream>
-#include <fstream>
-#include <string>
 
 using namespace std;
 
