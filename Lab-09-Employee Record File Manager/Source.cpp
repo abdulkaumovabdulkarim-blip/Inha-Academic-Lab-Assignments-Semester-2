@@ -2,37 +2,6 @@
 // Source.cpp
 #include "Header.h"
 // Functions
-/*
-Exercise 9: Employee Record File Manager
-Objective: You will create a C++ program that works with both text files and binary
-files. The program must demonstrate correct file handling and exception handling.
-Tasks:
-Create a menu-driven program called Employee Record File Manager. Your
-program will manage employee records using a text file named employees.txt and a
-binary file named employees.dat.
-Define a class Employee. The class contain ID, Name[20] and salary. The class also
-must provide setters and getters.
-Create menu-driven interface:
-1. Create text file and save records.
-Write student records into employees.txt. Create and write 5 employee records
-into employees.txt.
-2. Create binary file and save records.
-Store employee records in fixed-size format so that any record can be
-accessed directly. Create employees.dat and initialize it with 10 empty
-records.
-3. Add record to binary file.
-Add a record into a specific position in the binary file.
-4. Delete an employee record at a specific position.
-Delete a record by replacing it with an empty record.
-5. Update record in binary file.
-Update salary or name of a record.
-Exception Handling:
-Your program must use try, catch, and throw. You must handle at least these errors
-file cannot be opened, invalid record position, salary cannot be negative and trying to
-read an empty record. For example: If user enters position 0 or 11, throw an
-exception. If salary is less than 0, throw an exception. If file opening fails, throw an
-exception message.
-*/
 int Menu();
 void addRecord(fstream& file);
 void deleteRecord(fstream& file);
