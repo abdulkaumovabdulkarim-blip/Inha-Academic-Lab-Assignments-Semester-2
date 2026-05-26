@@ -1,16 +1,7 @@
 README.txt
 
 Course: Object-Oriented Programming (C++)
-Section: 002
 Program Name: Finance App for Investors
-
-STUDENTS:
-U2510076, Kim Maxim
-U2510080, Abdulqayumov Abdukarim
-U2510087, Irgashev Akmal
-U2510093, Fayzuraxmanov Shahriyor
-U2510096, Ibragimov Farrux
-U2510097, Raxmonov Sanjar
 
 IN ZIP FILE:
 1. Source Code files (.cpp , .h and .txt .dat files as well)
