@@ -1,0 +1,8 @@
+akmal@gmail.com,Uzcard,2000
+abdulkarim@gmail.com,Visa Card,2000
+admin@gmail.com,Admin Card,100000
+maksim@gmail.com,Master Card,4100
+maksim@gmail.com,UzCard,800
+farruh@gmail.com,Farruh Card,1000
+sanjar@gmail.com,Sanjik Card,1300
+shakh@gmail.com,ShakhCard,600

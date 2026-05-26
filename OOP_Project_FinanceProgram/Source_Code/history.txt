@@ -1,0 +1,8 @@
+admin@gmail.com,Income,10000,Profit,Admin Card
+abdulkarim@gmail.com,Income,1000,Salary,Visa Card
+admin@gmail.com,Expense,10000,Employee,Admin Card
+maksim@gmail.com,Income,100,Salary,Master Card
+maksim@gmail.com,Income,1000,Salary,Master Card
+maksim@gmail.com,Expense,300,Shopping,UzCard
+maksim@gmail.com,Income,500,Business,UzCard
+maksim@gmail.com,Expense,600,Gym,UzCard
